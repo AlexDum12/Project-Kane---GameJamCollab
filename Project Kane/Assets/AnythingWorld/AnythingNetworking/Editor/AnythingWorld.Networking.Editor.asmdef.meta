@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3b39abd246e6b854a94af972b35d0e8c
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261647
+  packageName: Limitless Animated 3D Models by Anything World
+  packageVersion: 1.0.2.4
+  assetPath: Assets/AnythingWorld/AnythingNetworking/Editor/AnythingWorld.Networking.Editor.asmdef
+  uploadId: 603863

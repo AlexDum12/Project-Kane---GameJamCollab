@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9382fc9b48210d54984da1128b804b8c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261647
+  packageName: Limitless Animated 3D Models by Anything World
+  packageVersion: 1.0.2.4
+  assetPath: Assets/AnythingWorld/AnythingNetworking/Editor/SignupLoginProcessor.cs
+  uploadId: 603863

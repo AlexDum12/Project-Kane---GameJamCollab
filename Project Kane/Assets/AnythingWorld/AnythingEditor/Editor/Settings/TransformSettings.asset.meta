@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: afaf8a738f4b8c64aa8c8871fefd44ca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261647
+  packageName: Limitless Animated 3D Models by Anything World
+  packageVersion: 1.0.2.4
+  assetPath: Assets/AnythingWorld/AnythingEditor/Editor/Settings/TransformSettings.asset
+  uploadId: 603863

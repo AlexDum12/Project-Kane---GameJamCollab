@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 75d220b6daaf65d4292878e7b08fd132
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 261647
+  packageName: Limitless Animated 3D Models by Anything World
+  packageVersion: 1.0.2.4
+  assetPath: Assets/AnythingWorld/AnythingBehaviour/AnythingBehaviourEditor/RandomMovementEditor.cs
+  uploadId: 603863
